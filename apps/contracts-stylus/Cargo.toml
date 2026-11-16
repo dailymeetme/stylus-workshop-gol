@@ -9,7 +9,7 @@ keywords = ["arbitrum", "ethereum", "stylus", "alloy"]
 description = "Stylus workshop example"
 
 [dependencies]
-stylus-sdk = { version = "0.10.9", default-features = false }
+stylus-sdk = { version = "0.10.10", default-features = false }
 mini-alloc = { version = "=0.4.2", default-features = false }
 openzeppelin-stylus = { version = "=0.3.0", default-features = false }
 
